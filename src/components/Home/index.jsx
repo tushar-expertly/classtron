@@ -30,7 +30,7 @@ function Home() {
     <Layout>
       <div className="min-h-screen bg-gray-100">
         {/* Hero Section */}
-        <section className="bg-fuchsia-500 text-white py-20">
+        <section className="bg-gradient-to-r from-gray-600 via-blue-700 to-teal-500 text-white py-20">
           <div className="container mx-auto text-center">
             <h1 className="text-5xl font-bold">
               Swift. Targeted. Timeless. Begin Your Skill Enhancement Journey
